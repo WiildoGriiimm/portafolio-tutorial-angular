@@ -3,10 +3,10 @@
     "email": "sergio.gswv@tutanota.com",
     "nombre_corto": "Serge",
     "pagina_autor": "Sergio.com",
-    "facebook": "facebook.com",
-    "twitter": "twitter.com",
-    "instagram": "instagram.com",
-    "tumblr": "tumblr.com",
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://instagram.com",
+    "tumblr": "https://tumblr.com",
     "equipo_trabajo": []
 
 }
